@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealerWebsiteParserEngine", "MoparDealerWebsiteParser\DealerWebsiteParserEngine.csproj", "{243ADFB0-0C11-489F-B8F6-EDD782C9690F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB", "..\mongodb-csharp-master\source\MongoDB\MongoDB.csproj", "{B125BBA6-BFFD-44FA-9254-9B1754CD8AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleDB", "VehicleDB\VehicleDB.csproj", "{D6586DE0-9549-412C-8549-AEB38481A434}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MarketTigerWeb", "..\..\WebSites\MarketTigerWeb\", "{56ADC271-CA09-4782-BB28-11F983F83234}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{d6586de0-9549-412c-8549-aeb38481a434}|VehicleDB.dll;{B125BBA6-BFFD-44FA-9254-9B1754CD8AF3}|MongoDB.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64939"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\MarketTigerWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64939\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64939"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\MarketTigerWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64939\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64939"
+		SlnRelativePath = "..\..\WebSites\MarketTigerWeb\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInsertImage", "TestInsertImage\TestInsertImage.csproj", "{6D447A0D-1B7A-45A8-9111-A8577DA222D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243ADFB0-0C11-489F-B8F6-EDD782C9690F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243ADFB0-0C11-489F-B8F6-EDD782C9690F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243ADFB0-0C11-489F-B8F6-EDD782C9690F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243ADFB0-0C11-489F-B8F6-EDD782C9690F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B125BBA6-BFFD-44FA-9254-9B1754CD8AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B125BBA6-BFFD-44FA-9254-9B1754CD8AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B125BBA6-BFFD-44FA-9254-9B1754CD8AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B125BBA6-BFFD-44FA-9254-9B1754CD8AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6586DE0-9549-412C-8549-AEB38481A434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6586DE0-9549-412C-8549-AEB38481A434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6586DE0-9549-412C-8549-AEB38481A434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6586DE0-9549-412C-8549-AEB38481A434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56ADC271-CA09-4782-BB28-11F983F83234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56ADC271-CA09-4782-BB28-11F983F83234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56ADC271-CA09-4782-BB28-11F983F83234}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{56ADC271-CA09-4782-BB28-11F983F83234}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{6D447A0D-1B7A-45A8-9111-A8577DA222D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D447A0D-1B7A-45A8-9111-A8577DA222D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D447A0D-1B7A-45A8-9111-A8577DA222D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D447A0D-1B7A-45A8-9111-A8577DA222D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MoparDealerWebsiteParser\VehicleDB\bin\Debug\VehicleDB.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MoparDealerWebsiteParser\VehicleDB\bin\Debug\VehicleDB.pdb
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MoparDealerWebsiteParser\VehicleDB\bin\Debug\MongoDB.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MoparDealerWebsiteParser\VehicleDB\bin\Debug\MongoDB.pdb
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MoparDealerWebsiteParser\VehicleDB\bin\Debug\MongoDB.xml
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MoparDealerWebsiteParser\VehicleDB\obj\Debug\VehicleDB.csprojResolveAssemblyReference.cache
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MoparDealerWebsiteParser\VehicleDB\obj\Debug\VehicleDB.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MoparDealerWebsiteParser\VehicleDB\obj\Debug\VehicleDB.pdb
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MarketTiger.com\VehicleDB\bin\Debug\VehicleDB.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MarketTiger.com\VehicleDB\bin\Debug\VehicleDB.pdb
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MarketTiger.com\VehicleDB\bin\Debug\MongoDB.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MarketTiger.com\VehicleDB\bin\Debug\MongoDB.pdb
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MarketTiger.com\VehicleDB\bin\Debug\MongoDB.xml
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MarketTiger.com\VehicleDB\obj\Debug\VehicleDB.csprojResolveAssemblyReference.cache
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MarketTiger.com\VehicleDB\obj\Debug\VehicleDB.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\MarketTiger.com\VehicleDB\obj\Debug\VehicleDB.pdb
